@@ -447,6 +447,21 @@ hr {
   text-align: center;
 }
 
+.book-details{
+    margin: 4rem 0rem;
+}
+
+.book-details-headers{
+  font-size: 3.0rem;
+  line-height: 1.3;
+  padding: 2.5rem 0;
+}
+
+.back-link{
+  text-transform: uppercase;
+  font-size: 1.2rem;
+}
+
 .footer {
   display: block;
   width: 100%;
@@ -455,6 +470,7 @@ hr {
   color: #666;
   text-align: center;
   padding: 15px 0px;
+  font-size: 1.3rem;
 }
 
 
@@ -498,6 +514,10 @@ hr {
 
   .bc-home-callout{
     padding: 0px 40px;
+  }
+
+  .back-link{
+    display: none;
   }
 }
 
