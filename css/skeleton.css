@@ -226,7 +226,13 @@ input[type="button"].button-primary:focus {
   color: #FFF;
   background-color: #990000;
   border-color: #990000; }
-
+.button.button-disabled {
+  color: #fff;
+  background-color: #ccc;
+  border-color: #ccc;
+  cursor: not-allowed;
+  pointer-events: none;
+}
 
 /* Lists
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
