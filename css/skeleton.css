@@ -594,6 +594,12 @@ hr {
     line-height: 1.2;
   }
 
+  .general-headers{
+    font-size: 2.5rem;
+    margin: 2rem 0rem;
+    line-height: 1.2;
+  }
+
   .bc-home-callout{
     padding: 0px 40px;
   }
